@@ -1,2 +1,3 @@
 this is my first file...
 then i make some changes to the files.
+the comes another line of the to let grasp the diff command
